@@ -31,6 +31,8 @@ A pesar de estas similitudes estadísticas, los gráficos de dispersión de esto
 
 * Un patrón con una varianza elevada que no es evidente en las estadísticas resumidas
 
+![Cuarteto de Anscombe](https://upload.wikimedia.org/wikipedia/commons/3/3a/Anscombe%27s_quartet_3.svg)
+
 Este cuarteto [1] destaca la necesidad de un análisis exploratorio visual para entender completamente los datos y evitar conclusiones erróneas basadas únicamente en las estadísticas descriptivas.
 
 ## Referencias
